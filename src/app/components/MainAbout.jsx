@@ -67,7 +67,7 @@ export default function MainAbout() {
           transform: `translateX(${translateX}px)`
         }}>about me</h2>
     </div>
-    <div className='h-screen sm:text-6xl text-xl flex px-16'>
+    <div className=' sm:text-6xl text-xl flex px-16'>
         <h2 className='sm:leading-[70px]'>I offer <span className='border-b-2 sm:border-b-8 border-fuchsia-800 '>creative</span> guidance to help you <span className='border-b-2 sm:border-b-8 border-fuchsia-800 '>master</span> frontend development and meet your business needs.</h2>
     </div>
     </div>
